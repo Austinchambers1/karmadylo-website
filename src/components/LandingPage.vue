@@ -12,7 +12,7 @@
     </div>
     <br/>
     <div>
-      <p>
+      <p style="font-size:25px;">
         Uwu UwU I make kawaii future bass music teehee, contact me if u want to
         give me munny
       </p>
